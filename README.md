@@ -37,6 +37,13 @@ Backend
 - [Express](https://expressjs.com/)
 - [Knex](http://knexjs.org/)
 
+Frontend
+
+- [Axios](https://github.com/axios/axios)
+- [React](https://reactjs.org/)
+- [React icons](https://react-icons.netlify.com/)
+- [React router](https://reacttraining.com/react-router/)
+
 ## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
