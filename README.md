@@ -44,6 +44,15 @@ Frontend
 - [React icons](https://react-icons.netlify.com/)
 - [React router](https://reacttraining.com/react-router/)
 
+Mobile
+
+- [Axios](https://github.com/axios/axios)
+- [Expo](https://expo.io/)
+- [Expo mail composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
+- [Intl](https://github.com/andyearnshaw/Intl.js)
+- [React native](https://facebook.github.io/react-native/)
+- [React navigation](https://reactnavigation.org/)
+
 ## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
