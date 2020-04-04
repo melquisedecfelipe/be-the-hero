@@ -33,9 +33,12 @@ This project was developed with the following technologies:
 Backend
 
 - [Axios](https://github.com/axios/axios)
+- [Celebrate](https://github.com/arb/celebrate)
 - [Cors](https://github.com/expressjs/cors)
 - [Express](https://expressjs.com/)
+- [Jest](https://jestjs.io/)
 - [Knex](http://knexjs.org/)
+- [Supertest](https://github.com/visionmedia/supertest/)
 
 Frontend
 
