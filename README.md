@@ -70,6 +70,9 @@ $ cd be-the-hero
 # Go into the backend and install dependencies
 $ cd backend && npm i
 
+# Run test
+$ npm run test
+
 # Run backend
 $ npm run dev
 
